@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class A1103320_0331_1{
+public class A1103320_0331{
     public static void main(String args[]) throws Exception{
         Scanner input = new Scanner(System.in);
 
