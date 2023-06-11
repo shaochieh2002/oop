@@ -78,7 +78,7 @@ class sellingDumplingClass implements Runnable {
     }
 }
 
-public class A1103311_Dumpling {
+public class A1103320_0526 {
     public static void main(String[] args) {
         System.out.println("請輸入共幾位顧客同時光臨:");
         Scanner sc = new Scanner(System.in);
